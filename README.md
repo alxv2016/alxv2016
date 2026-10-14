@@ -14,7 +14,7 @@ Outside of work I'm interested in designing and 3D printing products and art toy
 ![CSS](https://img.shields.io/badge/CSS-%23F43059?style=for-the-badge&logo=CSS%20Wizardry&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD1100?style=for-the-badge&logo=Angular&logoColor=white)
-![React](https://img.shields.io/badge/ReactJs-%58C4DC?style=for-the-badge&logo=Angular&logoColor=black)
+![React](https://img.shields.io/badge/React-Js-%58C4DC?style=for-the-badge&logo=Angular&logoColor=black)
 ![Web accessibility](https://img.shields.io/badge/Accessibility-%230000FF?style=for-the-badge)
 
 ### Let's connect
